@@ -179,14 +179,14 @@
 
 ### Backdoors with msfvenom:
 
-- Linux --> Kithack.elf
-- Windows --> Kithack.exe
-- Android --> Kithack.apk
-- Mac OS --> Kithack.macho
-- Php --> Kithack.php
-- Python --> Kithack.py
-- Bash --> Kithack.sh
-- Perl --> Kithack.pl
+- Linux --> KiTool.elf
+- Windows --> KiTool.exe
+- Android --> KiTool.apk
+- Mac OS --> KiTool.macho
+- Php --> KiTool.php
+- Python --> KiTool.py
+- Bash --> KiTool.sh
+- Perl --> KiTool.pl
 
 ## Probado en:
 
