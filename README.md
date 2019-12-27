@@ -1,9 +1,11 @@
 
+
 # KITOOL
 
 [![Author](https://www.facebook.com/daniel.san.01.11)
+[![Python](https://img.shields.io/badge/Python-2.7-yellow)]()
 
-**KiTool** es una herramienta en python abierto que contiene 130 herramientas de enfocadas al hacking para descargar y automatiza el proceso de descarga e instalar con sus dependencias necesarias para la herramienta que usted desee. **KiTool** También contiene la opción facilidad de poder generar puertas traseras con diferentes tipos de Payloads tanto para Linux, Windows, Android y Mac OS. 
+**KiTool** es un proyecto de código abierto que contiene 130 herramientas enfocadas al hacking y automatiza el proceso de descarga e instalación para la herramienta que usted desee. **KiTool** también nos brinda la facilidad de poder generar puertas traseras con diferentes tipos de Payloads tanto para Linux, Windows, Android y MAC OS. 
 
 ### Menu
 
@@ -177,14 +179,14 @@
 
 ### Backdoors with msfvenom:
 
-- Linux --> KiTools.elf
-- Windows --> KiTools.exe
-- Android --> KiTool.apk
-- Mac OS --> KiTool.macho
-- Php --> KiTool.php
-- Python --> KiTool.py
-- Bash --> KiTool.sh
-- Perl --> KiTool.pl
+- Linux --> Kithack.elf
+- Windows --> Kithack.exe
+- Android --> Kithack.apk
+- Mac OS --> Kithack.macho
+- Php --> Kithack.php
+- Python --> Kithack.py
+- Bash --> Kithack.sh
+- Perl --> Kithack.pl
 
 ## Probado en:
 
@@ -192,7 +194,7 @@
 
 ## Instalación:
 
-Instrucciones para instalar KiTool:
+Instrucciones para instalar KitHack:
 ```bash
 sudo apt install python2.7 python-pip  
 git clone https://github.com/Dextro593/KiTools
@@ -235,3 +237,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+
+
+
+
+
