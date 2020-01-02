@@ -194,7 +194,7 @@
 
 ## Instalación:
 
-Instrucciones para instalar KitHack:
+Instrucciones para instalar KiTool:
 ```bash
 sudo apt install python2.7 python-pip  
 git clone https://github.com/Dextro593/KiTools
